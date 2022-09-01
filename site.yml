@@ -3,7 +3,7 @@ runtime:
 
 site:
   title: Application Modernization ILT
-  start_page: mad-dev-guides-m2::1-introduction.adoc
+  start_page: app-mod-ilt-m2::1-introduction.adoc
 
 content:
   sources:
