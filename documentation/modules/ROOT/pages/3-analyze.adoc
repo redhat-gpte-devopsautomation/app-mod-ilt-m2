@@ -190,4 +190,4 @@ You can now see exactly where the issue is located in the source code.  But you 
 
 == Summary
 
-You have now successfully analyzed the legacy application to learn what migration issues you have. You'll refactor the application to fix the issues using the VS Code server in `module 2`. Then, you'll also deploy the modernized application quickly to Red Hat OpenShift.
+You have now successfully analyzed the legacy application to learn what migration issues you have. You'll refactor the application to fix the issues using the VS Code server in `module 3`. Then, you'll also deploy the modernized application quickly to Red Hat OpenShift.
